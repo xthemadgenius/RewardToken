@@ -343,7 +343,7 @@ contract Mytoken is IBEP20, Auth {
     
     using SafeMath for uint256;
 
-    string constant _name = "My token";                             //Contract By TechAddict YT
+    string constant _name = "My token";
     string constant _symbol = "MT";
     uint8 constant _decimals = 9;
 
